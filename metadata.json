@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Generator",
+  "description": "Generate a short video from an image and a text prompt using Google's Veo 3 model. Select an aspect ratio and bring your static images to life with AI.",
+  "requestFramePermissions": []
+}
